@@ -9,6 +9,7 @@ public class MainActivity extends BaseActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         setData(10);
+        setData(20);
     }
 
 
